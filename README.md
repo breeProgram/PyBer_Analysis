@@ -14,4 +14,3 @@ This scatter plot helps to explain the disparity between the city type in the pr
  - With Suburban city having the second most drivers, they gets more riders than Rural while at the same time charging more than Urban drivers.
 ## Summary
 After looking at the data and having these results in mind I could give some recommendations. First Rural drivers could lower their fares to bring in more rides. Second, with no shortage of drivers in the Urban city type, those drivers could safely risk raising theirs fares to increase profit. Lastly, I would recommend Suburban drivers also raise their fares to incentivize more drivers to join. 
-
