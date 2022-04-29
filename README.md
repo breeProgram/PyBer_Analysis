@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ## Introduction
-My assignment was to create a summary dataframe and graph based on data from a ride sharing company, PyBer, using Pandas and Matplotlib together. The request was looking to show the total weekly fares for each type of city (urban, suburban, and rural) from January to April. This report will be able to show how the data differs between types of cities and be used to make future decisions at PyBer.
+My project was to create a summary dataframe and graph based on data from a ride sharing company, PyBer, using Pandas and Matplotlib together. The request was looking to show the total weekly fares for each type of city (urban, suburban, and rural) from January to April. This report will be able to show how the data differs between types of cities and be used to make future decisions at PyBer.
 ## Results
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/56700719/151716757-f59cb225-2208-490c-bba2-faaedd8edf29.png)
 Some important points can be made from this graph:
