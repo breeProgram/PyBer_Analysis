@@ -8,6 +8,7 @@ Some important points can be made from this graph:
  - The Suburban city type had the second most fares, making almost double the fares of the Rural city type.
  - Each city had noticeable disparity in their fare amounts, for example Rural city type highest amount of fares at $500 is still less than Suburban’s lowest amount of fares.
 ![Fig1](https://user-images.githubusercontent.com/56700719/151716794-e47cbe43-ff0b-4e90-8b8e-62ceb51f9d1b.png)
+
 This scatter plot helps to explain the disparity between the city type in the previous graph. The purpose of this graph is to show average fare per number of rides by city type. Note, each circle correlates with a driver and its size with number of drivers.
  - Rural drivers get the fewest riders and charge the highest fares, up to $44 a ride.
  - While Urban city type charges the least per fare it still makes the most from having more drivers than the other two types combined.
